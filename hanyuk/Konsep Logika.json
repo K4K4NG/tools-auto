@@ -1,0 +1,18 @@
+{
+    "link": "masuk ke web pakai bug scraping minus kena spam ip laptop",
+    "kode": "dapat link masuk ke konsep ke dua yang menghubungkan login dan dashboar",
+    "link_utama": "parameter data harus di bagian tampilan pertama setelah login",
+    "api": "pasti akan ada capcha pelindung usahain jangan melewati capcha karena lu kaga bisa bypass",
+    "parameter_login":{
+        "username": "menggunakan user id",
+        "password": "menggunakan password",
+        "socket": "memakai socket agar takter halang koneksi",
+        "link_full_time":"pasti link login dan setelah login akan banyak",
+        "link_ignore":"membuat input / list link pengganti langsung dari web menggunakan bs4 form",
+        "session": "memakai session ketika sudah mendapatkan {link_utama} karena penting untuk menuju langkah selanjutnya",
+        "async":"menggunakan async hanya sebagai hiasan penambah",
+        "response": "mengambil data dan nge cek data ketika {login} dan {link_utama} sudah di proses",
+        "scraping":"cek status apakah valid atau tidak valid",
+        "inti":"semangat saja"
+    }
+}
